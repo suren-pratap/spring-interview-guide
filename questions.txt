@@ -1,0 +1,12 @@
+1. Spring bean life cycyle
+	https://www.geeksforgeeks.org/bean-life-cycle-in-java-spring/
+	https://howtodoinjava.com/spring-core/spring-bean-life-cycle/
+	
+2. https://howtodoinjava.com/spring-core/spring-ioc-vs-di/
+
+3. https://howtodoinjava.com/spring-core/stereotype-annotations/
+
+
+4. https://stackoverflow.com/questions/25242321/difference-between-spring-controller-and-restcontroller-annotation
+
+5. https://howtodoinjava.com/interview-questions/spring-boot-interview-questions/
